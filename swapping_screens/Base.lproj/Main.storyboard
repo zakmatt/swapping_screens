@@ -117,7 +117,7 @@
                         </constraints>
                     </view>
                     <connections>
-                        <segue destination="sLp-Mf-ihQ" kind="showDetail" identifier="SongVC" id="z0O-bO-9Vu"/>
+                        <segue destination="sLp-Mf-ihQ" kind="showDetail" identifier="PlaySongVC" id="z0O-bO-9Vu"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="3up-hb-jXb" userLabel="First Responder" sceneMemberID="firstResponder"/>
